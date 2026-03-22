@@ -23,3 +23,8 @@ Upload → OCR → AI → Case Detection → Flow Generation → Interactive UI
 
 # Demo
 
+# Why this project?
+
+Government processes are often confusing and hard to navigate.
+
+FlowSaarthi simplifies them into clear, visual steps that users can follow and track.
